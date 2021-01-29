@@ -17,7 +17,7 @@ struct Course: Decodable {
     let name: String?
     let link: String?
     let imageUrl: String?
-    
+    //deneme
 //    init(json: [String: Any]) {
 //        id = json["id"] as? Int ?? -1
 //        name = json["name"] as? String ?? ""
