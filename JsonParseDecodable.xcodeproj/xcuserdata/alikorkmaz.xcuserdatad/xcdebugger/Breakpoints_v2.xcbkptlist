@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "9D54577C-0682-4569-99F8-DE7637D5E0AC"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FFBE136D-367F-4939-B97A-72CE3D73C80E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "JsonParseDecodable/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "57"
+            endingLineNumber = "57"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "FFBE136D-367F-4939-B97A-72CE3D73C80E - ca5d539e439f06b7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "JsonParseDecodable.ViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "JsonParseDecodable"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alikorkmaz/Desktop/projects/JsonParseDecodable/JsonParseDecodable/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "52"
+                  endingLineNumber = "52"
+                  offsetFromSymbolStart = "680">
+               </Location>
+               <Location
+                  uuid = "FFBE136D-367F-4939-B97A-72CE3D73C80E - 7e20afdde5b52f3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in JsonParseDecodable.ViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "JsonParseDecodable"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alikorkmaz/Desktop/projects/JsonParseDecodable/JsonParseDecodable/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "52"
+                  endingLineNumber = "52"
+                  offsetFromSymbolStart = "1724">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "ACA1B133-B2CF-40D9-9FC3-3AA6548154BB"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "JsonParseDecodable/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "52"
+            endingLineNumber = "52"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "ACA1B133-B2CF-40D9-9FC3-3AA6548154BB - 7e20afdde5b52b5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in JsonParseDecodable.ViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "JsonParseDecodable"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alikorkmaz/Desktop/projects/JsonParseDecodable/JsonParseDecodable/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "50"
+                  endingLineNumber = "50"
+                  offsetFromSymbolStart = "324">
+               </Location>
+               <Location
+                  uuid = "ACA1B133-B2CF-40D9-9FC3-3AA6548154BB - 7e20afdde5b52b5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in JsonParseDecodable.ViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "JsonParseDecodable"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alikorkmaz/Desktop/projects/JsonParseDecodable/JsonParseDecodable/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "50"
+                  endingLineNumber = "50"
+                  offsetFromSymbolStart = "552">
+               </Location>
+               <Location
+                  uuid = "ACA1B133-B2CF-40D9-9FC3-3AA6548154BB - 7e20afdde5b52b5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in JsonParseDecodable.ViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "JsonParseDecodable"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alikorkmaz/Desktop/projects/JsonParseDecodable/JsonParseDecodable/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "50"
+                  endingLineNumber = "50"
+                  offsetFromSymbolStart = "648">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C1672ECF-AE5C-4D35-B88A-C861FEAF7DA5"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "JsonParseDecodable/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "51"
+            endingLineNumber = "51"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
